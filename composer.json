@@ -1,0 +1,25 @@
+{
+    "name": "salyga/townClasses",
+    "description": "Classes",
+    "authors": [
+        {
+            "name": "salyga",
+            "email": "dimon.salyga@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+	"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/salyga/townClasses.git"
+        }
+    ]
+    "autoload": {
+        "psr-0": {
+            "package": "./"
+        }
+    }
+}
