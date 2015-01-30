@@ -1,6 +1,6 @@
 <?php
 namespace TownNamespace;
-class Town implements Serializable {
+class Town{
 
     private $nameTown;
     private $yearFound;
